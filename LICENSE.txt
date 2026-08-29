@@ -1,0 +1,13 @@
+Copyright © 2026 Latif Bukari Rashid. All rights reserved.
+
+This repository and website, including but not limited to its source code, written content, design, photographs, graphics, research material, curriculum vitae, documents, and other media, are the intellectual property of Latif Bukari Rashid unless otherwise stated.
+
+No part of this repository or website may be copied, reproduced, modified, republished, distributed, sublicensed, sold, used commercially, or incorporated into another work without prior written permission from the copyright holder.
+
+Viewing the publicly accessible website and downloading documents through links intentionally provided for that purpose are permitted for personal, academic, and professional reference only. Such access does not transfer ownership or grant permission to reproduce, redistribute, modify, or commercially exploit the materials.
+
+Third-party names, trademarks, logos, fonts, icons, libraries, and linked materials remain the property of their respective owners and are governed by their own applicable terms and licences.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE MATERIALS.
+
+For permission to reuse any part of this repository or website, contact the copyright holder through the contact method provided on the published website.
